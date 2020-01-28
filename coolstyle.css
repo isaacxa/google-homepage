@@ -1,0 +1,130 @@
+#locator {position: absolute; visibility: visible; left: 500px; top: 170px;
+	height: 100px; width: 150px; z-index: 200;}
+
+form.search-bar {
+	position: absolute; visibility: visible; left: 320px; top: 270px;
+	height: 150px; width: 150px; z-index: 200; border-radius: 10px;
+	
+}
+
+label, input {
+	display: table-cell;
+	margin: 15px;
+}
+
+input {
+	width: 600px;
+}
+
+#submit {
+	position: absolute; visibility: visible; width: 110px; left: 180px;
+	background-color: #f2f2f2; border: #f2f2f2; height: 40px;  
+}
+
+#lucky {
+	position: absolute; visibility: visible; width: 130px; left: 300px;
+	background-color: #f2f2f2; border: #f2f2f2; height: 40px; 
+}
+
+#search {
+	padding-left: 40px; border-radius: 25px; height: 50px; font-size: 24px;
+}
+
+#sign {
+	position: absolute; visibility: visible; width: 75px; left: 850px; top: -250px;
+	background-color: #4285f4; display: inline-block; padding: 0 12px; border-radius: 2px;
+	border: #4285f4; font-weight: bold;
+}
+
+#apps {
+	position: absolute; visibility: visible; width: 20px; left: 790px;
+	top: -260px; 
+}
+
+#photo {
+	position: absolute; visibility: visible; width: 20px; left: 16px;
+	top: 28px; 
+}
+
+#one {
+	position: absolute;
+	visibility: visible;
+	margin: 10px 0;
+	padding: 5px;
+	left: 720px;
+	top: -260px;
+	font-size: 12px;
+}
+
+#two {
+	position: absolute;
+	visibility: visible;
+	margin: 10px 0;
+	padding: 5px;
+	left: 670px;
+	top: -260px;
+	font-size: 12px;
+}
+
+#about {
+	position: absolute;
+	visibility: visible;
+	margin: 10px 0;
+	padding: 5px;
+	left: -300px;
+	top: -260px;
+	font-size: 12px;
+}
+
+#store {
+	position: absolute;
+	visibility: visible;
+	margin: 10px 0;
+	padding: 5px;
+	left: -250px;
+	top: -260px;
+	font-size: 12px;
+}
+
+ul {
+	border: 1px solid 
+	background-color: #f3f3f3
+}
+
+li {
+	display: inline;
+	float: left;
+
+}
+
+
+
+a {
+	display: block;
+	padding: 8px;
+	color: black;
+	
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #eeeef4;
+  color: white;
+  text-align: center;
+  font-size: 12px;
+  
+}
+
+.alignrightagain {
+	float: right;
+}
+.alignright {
+	float: right;
+}
+
+.alignrightmore {
+	float: right;
+}
