@@ -1,3 +1,3 @@
 # google-homepage
 This project was from The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
-I will update this file as I complete project!
+As this was my first real project in the curriculum, it took me a few days to complete. As of 1/28/20 I have been spending around 3 hours a day on The Odin Project. For the most part, I was able to use what I learned along with a few html/css cheat sheets to guide me. There were a few times that I had to google how to implement something specific that I wanted. The only time that I opend up the Chrome Dev tool was to figure out the exact color of certain elements, as to model the page accurately. 
